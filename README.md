@@ -8,4 +8,4 @@ Mi CV puede descargarse de este link
 
 <p>
 
-[CV actualizado](file:///C:/Users/Gladys/Documents/Bruno/4/tecnicas%20y%20herram%20modernas/modulo%201/CV_BrunoCampati.pdf)
+[CV actualizado](CV_BrunoCampati.zip)
