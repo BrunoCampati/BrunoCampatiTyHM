@@ -8,4 +8,4 @@ Mi CV puede descargarse de este link
 
 <p>
 
-[CV actualizado](CV_BrunoCampati.zip)
+[CV actualizado](CV_BrunoCampati.pdf)
