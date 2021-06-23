@@ -10,3 +10,9 @@ Mi CV puede descargarse de este link
 <p>  
   
 <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/blob/main/CV_BrunoCampati.pdf">Actualizado Junio 2021</a>
+
+ <p>
+   
+   Tarea de traducción del Capitulo 10
+   
+   <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/blob/main/Traduccion_capitulo_10_CAMPATI_pdf.pdf">Traducción</a>
