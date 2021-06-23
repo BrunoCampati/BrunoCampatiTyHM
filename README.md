@@ -10,4 +10,6 @@ Mi CV puede descargarse de este link
 
 [CV actualizado](https://github.com/BrunoCampati/BrunoCampatiTyHM/blob/main/CV_BrunoCampati.pdf)
 
+<p>  
+  
 <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/blob/main/CV_BrunoCampati.pdf">Actualizado Junio 2021</a>
