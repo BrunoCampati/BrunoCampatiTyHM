@@ -14,5 +14,5 @@ Mi CV puede descargarse de este link
  <p>
    
    Tarea de traducción del Capitulo 10
-   
-   <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/blob/main/Traduccion_capitulo_10_CAMPATI_pdf.pdf">Traducción</a>
+   <p>
+      <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/blob/main/Traduccion_capitulo_10_CAMPATI_pdf.pdf">Traducción</a>
