@@ -20,4 +20,4 @@ Mi CV puede descargarse de este link
    <p>
       <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/raw/main/Traduccion_capitulo_10_CAMPATI_pdf.pdf">Traducción (.pdf)</a>
    <p>
-      <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/raw/main/Traducci%C3%B3n_capitulo_10_CAMPATI.zip">Traducción (.pdf)</a>
+      <a href="https://github.com/BrunoCampati/BrunoCampatiTyHM/raw/main/Traducci%C3%B3n_capitulo_10_CAMPATI.zip">Traducción (.zip)</a>
